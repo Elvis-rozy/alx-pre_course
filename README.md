@@ -1,1 +1,1 @@
-This is to present this new project "alx-pre_coures"
+My first repository as a software engineer"
